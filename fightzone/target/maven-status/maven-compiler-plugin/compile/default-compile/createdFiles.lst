@@ -1,0 +1,10 @@
+FightZoneParser.class
+FightZoneBaseListener.class
+FightZoneListener.class
+FightZoneParser$StartContext.class
+FightZoneParser$CreateCommandContext.class
+FightZoneParser$CommandContext.class
+FightZoneParser$FightCommandContext.class
+FightZoneDemo.class
+Warrior.class
+FightZoneLexer.class

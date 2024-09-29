@@ -1,0 +1,3 @@
+create Superman with strength 5
+create Batman with strength 30
+make Superman and Batman fight
